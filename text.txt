@@ -1,0 +1,14 @@
+python -m PyQt5.uic.pyuic -x project_1.ui -o project_1_ui.py
+
+
+python -m PyQt5.uic.pyuic -x untitled.ui -o untiled.py
+
+
+python -m PyQt5.uic.pyuic -x pr2.ui -o pr2.py
+
+
+python -m PyQt5.uic.pyuic -x prof.ui -o prof_.py
+
+
+QPushButton{\n                                            border-radius: 25px;\n                                            background-color: #7d7a7a;\n                                            border: 2px solid #fc8383;\n                                            color: white;\n                                        }\n                                        QPushButton::hover{\n                                            background-color: #fc8383;\n                                            color: black;\n                                        }\n                                        QPushButton::pressed{\n                                            background-color: #ff4545;\n                                            color: black;\n                                        }
+
